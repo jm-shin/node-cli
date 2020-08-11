@@ -6,6 +6,9 @@
   "author": "jongmin",
   "license": "ISC",
   "bin": {
-    "cli": "./index.js"
+    "cli": "./template.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
